@@ -1,0 +1,11 @@
+PDS_PATH=http://il-dtldev04:8992/pds?
+DEFAULT_INST=INS00
+IE_WS_PATH=http://localhost:1801/dpsws/repository/IEWebServices?wsdl
+SIP_WS_PATH=http://localhost:1801/dpsws/repository/SipWebServices?wsdl
+DEP_WS_PATH=http://localhost:1801/dpsws/deposit/DepositWebServices?wsdl
+PROD_WS_PATH=http://localhost:1801/dpsws/backoffice/ProducerWebServices?wsdl
+DELIVERY_PATH=http://localhost:1801/delivery
+MATERIAL_FLOW_ID=5
+PRODUCER_ID=10000
+MATERIAL_FLOW_DEPOSIT_FOLDER=C:/dps/workspaceHEAD_SVN/profile/deposit/data/depositExamples/
+TRANSFORM_XSL=xml_to_ros.xsl
